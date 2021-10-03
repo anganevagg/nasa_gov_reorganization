@@ -1,0 +1,18 @@
+<div class="containe p4">
+    <div class="row">
+        {{#each sources}}
+            <div class="col-md-3">
+                <div class="card text-center m-3">
+                    <div class="card-body">
+                        <h3 class="card-tittle text-uppercase">{{name}}</h3>
+                        <p class="m-3">Description: {{description}}</p>
+                        <img src="/img/{{img}}" alt="" class="img-fluid"><br/>
+                        <a class="btn btn-primary text-uppercase" href="/categories/{{@index}}">
+                            Open
+                        </a>
+                    </div>
+                </div>
+            </div>
+        {{/each}}
+    </div>
+</div>

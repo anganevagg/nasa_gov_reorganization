@@ -1,0 +1,12 @@
+.navbar .bg-dark{
+    background-color: #212121;
+    
+}
+
+.card{
+    border: solid 2px black;
+}
+
+.card:hover{
+    border: solid 1px black;
+}

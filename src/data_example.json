@@ -1,0 +1,130 @@
+{
+    "sources":[
+        {
+            "name": "Nasa Goddard Global Change Data Center",
+            "description": "The Global Change Data Center (GCDC) is an office in the Earth Sciences Division located at NASA's Goddard Space Flight Center in Greenbelt, Maryland. The GCDC: provides multi-mission data and information systems to generate and distribute products from Earth observing satellites.",
+            "img":"img1.png",
+            "categories": [
+                {
+                    "name": "Earth Science",
+                    "tag": "earth science",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Atmosphere",
+                    "tag": "atmosphere",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Precipitation",
+                    "tag": "precipitation",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Atmospheric radiation",
+                    "tag": "atmospheric radiation",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Atmospheric chemistry",
+                    "tag": "atmospheric chemistry",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Atmospheric temperature",
+                    "tag": "atmospheric temperature",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Oceans",
+                    "tag": "oceans",
+                    "category": "Geospatial"
+                }
+            ]
+        },
+        {
+            "name": "Nasa’s Oak Ridge National Lab Data Center",
+            "description": "ORNL DAAC specializes on data and information relevant to terrestrial biogeochemistry, ecology, and environmental processes, which are critical to understanding the dynamics of Earth's biological, geological, and chemical components.",
+            "img":"img2.png",
+            "categories": [
+                {
+                    "name": "Biosphere",
+                    "tag": "biosphere",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Ecological dinamics",
+                    "tag": "ecological dinamics",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Vegetation",
+                    "tag": "vegetation",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Land surface",
+                    "tag": "land surface",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Ecosystems",
+                    "tag": "ecosystems",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Atmospheric water vapor",
+                    "tag": "atmospheric water vapor",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Human dimensions",
+                    "tag": "human dimensions",
+                    "category": "Geospatial"
+                }
+            ]
+        },
+        {
+            "name": "Nasa Langley Atmospherical Science Data Center",
+            "description":"These data sets were created from satellite measurements, field experiments, and modeled data products. ASDC projects focus on the Earth science disciplines: Radiation Budget, Clouds, Aerosols, and Tropospheric Composition.",
+            "img":"img3.png",
+            "categories": [
+                {
+                    "name": "Aerosols",
+                    "tag": "aerosols",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Earth science",
+                    "tag": "earth science",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Clouds",
+                    "tag": "clouds",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Atmosphere",
+                    "tag": "atmosphere",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Spectral/Enginnering",
+                    "tag": "spectral enginnering",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Infrared wavenlengths",
+                    "tag": "infrared wavenlengths",
+                    "category": "Geospatial"
+                },
+                {
+                    "name": "Atmospheric radiation",
+                    "tag": "atmospheric radiation",
+                    "category": "Geospatial"
+                }
+            ]
+        }
+    ]
+}
